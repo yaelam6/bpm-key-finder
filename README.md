@@ -2,4 +2,4 @@
 
 A desktop app for finding BPM and musical key.
 
-BPM and key metadata powered by [GetSongBPM](https://getsongbpm.com/).
+BPM and key metadata powered by [GetSongBPM](https://api.getsong.co/).
